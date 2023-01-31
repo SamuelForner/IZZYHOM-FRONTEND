@@ -1,0 +1,26 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 220px;
+	margin: 20px;
+}
+
+.textContainer {
+	margin: 10px 0px 10px 00px;
+}
+
+.title {
+	font-weight: 600;
+}
+
+
+.image {
+	width: 220px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.description {
+	font-weight: 300;
+	font-size: 14px;
+}

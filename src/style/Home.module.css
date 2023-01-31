@@ -1,0 +1,36 @@
+.main {
+	width: 100vw;
+	min-height: 100vh;
+	margin: 0;
+}
+
+.header {
+	display: row;
+	align-items: center;
+	justify-content: space-between;
+	width: 100vw;
+	height: 90px;
+	background-color: #3e56a5;
+	color: white;
+	padding: 0px 20px 10px 20px;
+}
+
+.title {
+	max-width: 100vw;
+	margin: 4px 0px 0px 60px;
+	font-weight: 600;
+}
+
+.list {
+    display: flex;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.propertyAd {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	max-width: 100vw;
+	margin: 20px;
+}
